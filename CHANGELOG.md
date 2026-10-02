@@ -34,3 +34,4 @@
 - fix: clarify the setup steps
 - fix: clarify the setup steps
 - docs: link the usage section
+- chore: link the usage section
